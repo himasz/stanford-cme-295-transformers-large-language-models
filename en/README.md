@@ -11,7 +11,7 @@ This repository aims at summing up in the same place all the important notions t
 ### VIP Cheatsheet
 <a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf"><img src="https://cme295.stanford.edu/cheatsheet-en.png" alt="Illustration" width="600px"/></a>
 ### Full Lecture notes
-<a href="https://github.com/himasz/stanford-cme-295-transformers-large-language-models/blob/main/en/CME295_full_course_notes.pdf"><img src="" alt="Illustration" width="600px"/></a>
+<a href="https://github.com/himasz/stanford-cme-295-transformers-large-language-models/blob/main/en/CME295_full_course_notes.pdf"><img src="" alt="Full Lectures notes" width="600px"/></a>
 
 ## Class textbook
 This VIP cheatsheet gives an overview of what is in the "Super Study Guide: Transformers & Large Language Models" book, which contains ~600 illustrations over 250 pages. You can find more details at https://superstudy.guide.
